@@ -1,0 +1,23 @@
+
+
+#navbarCollapse {
+    display: flex;
+    justify-content: center; /* 가로 중앙 정렬 */
+    
+}
+
+#navbarheader {
+    display: flex;
+    
+    justify-content: center; /* 세로 중앙 정렬 */
+    align-items: center; /* 가로 중앙 정렬 */
+    
+    padding: 0; /* 패딩 제거 */
+}
+li{
+    margin-left: 8vw;
+}
+
+/* .color{
+    color: black;
+} */
